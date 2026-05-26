@@ -1,0 +1,220 @@
+.headArea {
+    width:100%;
+    background: url("https://1.bp.blogspot.com/-N3dz-mC-wpM/XkWdl-KCkyI/AAAAAAAAALw/6UUZCNhEQGgwou4qqWTa3ICiK-HhMcFQgCNcBGAsYHQ/s1600/header_bg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+  }
+  
+  #head-icon {
+    max-width: 20vh;
+  }
+  
+  .newsArea {
+    width: 100%;
+    background-image: url("https://1.bp.blogspot.com/-tBX0kolRCsw/XkSd3MPdIrI/AAAAAAAAAKY/GVZZ_UpvREML1eq9WVQ37ISz43FsUy_UQCNcBGAsYHQ/s1600/base_y_izq.png");
+    background-size: cover;
+  }
+  
+  .newsArea .headArea {
+    width: 100%;
+    overflow: hidden;
+    padding: 15px 0 10px;
+    position: relative;
+  }
+  
+  .newsArea .headArea img{
+    max-width: 100%;
+  }
+  
+  .newsArea .sliderContainer, .newsArea .sliderContainer .sliderNews {
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  img.title {
+    margin-bottom: 5px;
+  }
+  
+  img.descr {
+    max-width: 90%;
+    margin-bottom: 20px;
+  }
+  
+  img.btn-detalles {
+    max-width: 50%;
+  }
+  
+  
+  .mangaArea, .mangaArea .rightSide, .mangaArea .leftSide, .animeArea, .animeArea .rightSide, .animeArea .leftSide, .extrasArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .mangaArea {
+    background-image: url("https://1.bp.blogspot.com/-IgqGX2mexzU/XkcKLLA6S2I/AAAAAAAAAQw/00BsFaT9zDMSMdw4ispq8gF_FKK4ZhN7ACNcBGAsYHQ/s1600/banner_g.png");
+    padding-bottom: 30px;
+    padding-top: 0px;
+    width: 100%;
+    transition: width 1s;
+  }
+  
+  .animeArea {
+    background-image: url("https://1.bp.blogspot.com/-UmA285xzuP8/XkcKLBBSbUI/AAAAAAAAAQs/Un34SMcF-YQ52l_fdktQIIZqyDmzzxA1gCNcBGAsYHQ/s1600/banner_p.png");
+    padding-bottom: 70px;
+    padding-top: 40px;
+    width: 100%;
+    transition: width 1s;
+  }
+  
+  .mangaArea, .animeArea, .extrasArea, .arteSecc, .infoSecc, .sonidosSecc, .juegosSecc  {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+  }
+  
+  .mangaArea .leftSide, .animeArea .leftSide {
+    width: 50%;
+    flex-direction: column;
+  }
+  
+  .mangaArea .rightSide, .animeArea .rightSide {
+    width: 50%;
+    flex-direction: column;
+  }
+  
+  .mangaArea .rightSide img, .mangaArea .leftSide img, .animeArea .rightSide img, .animeArea .leftSide img {
+    max-width: 100%;
+  }
+  
+  .extrasHeader {
+    height: 100px;
+    background-image: url(https://1.bp.blogspot.com/-48ieiBiLMzU/XkiM6cmkgeI/AAAAAAAAARc/tHCThSASPs8wu0z_CNKBnDTZKS2KE4SeQCNcBGAsYHQ/s1600/extrasTitle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 50%;
+  }
+  
+  .extrasArea {
+    background-image: url(https://1.bp.blogspot.com/-aC2HZL-2F_k/Xjm-3CJ-ObI/AAAAAAAAAFs/iW-MRhN5c3wgEeypw6VDJcoKxi8WEz8lACKgBGAsYHg/s1600/homebackground.jpg);
+    background-attachment: fixed;
+    transition: background-image 0.2s ease 0.2s;
+  }
+  
+  .extrasArea .stripesBg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    padding-bottom: 80px;
+  }
+  
+  .extrasArea img {
+    max-width: 100%;
+  }
+  
+  .infoSecc {
+    background-image: url("https://1.bp.blogspot.com/-qLbIPDIcTtM/XkSd1pQgtpI/AAAAAAAAAKQ/8YzSb4ms32oZNvWkseLOD74wle0zXmdPQCNcBGAsYHQ/s1600/base_b.png");
+  }
+  
+  .juegosSecc {
+    background-image: url("https://1.bp.blogspot.com/-vsOkSJJJn8s/XkSd1qnZbtI/AAAAAAAAAKI/2t4-sEWjVaIWKA-P-7IzgFw4056aLsFjQCNcBGAsYHQ/s1600/base_g.png");
+  }
+  
+  .sonidosSecc {
+    background-image: url("https://1.bp.blogspot.com/-qLbIPDIcTtM/XkSd1pQgtpI/AAAAAAAAAKQ/8YzSb4ms32oZNvWkseLOD74wle0zXmdPQCNcBGAsYHQ/s1600/base_b.png");
+  }
+  
+  .arteSecc {
+    background-image: url("https://1.bp.blogspot.com/-U7io2Ru9sUw/XkSd1iyEuNI/AAAAAAAAAKM/zkTkr9MhA80kI2iZpe6-JYBg5zul7PrwwCNcBGAsYHQ/s1600/base_p.png");
+  }
+  
+  .extrasArea, .arteSecc, .sonidosSecc, .juegosSecc, .infoSecc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .arteSecc, .sonidosSecc, .juegosSecc, .infoSecc {
+    margin-top: 50px;
+    width: 90%;
+    border-radius: 19px;
+  }
+  
+  .contentArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 35px;
+  }
+  
+  .extrasArea .leftSide img {
+    max-width: 100%;
+  }
+  
+  .infoSecc .leftSide img {
+    max-width: 70%;
+  }
+  
+  .extrasArea .btn-detalles {
+    padding-top: 5%;
+  }
+  
+  .juegosSecc .rightSide img:first-child {
+      margin-top: 25px;
+  }
+  
+  @media (max-width: 750px){
+    .mangaArea {
+      flex-direction: column-reverse;
+      padding-bottom: 60px;
+    }
+  
+    .animeArea {
+      flex-direction: column;
+      padding-bottom: 150px;
+    }
+  
+    .mangaArea .leftSide, .mangaArea .rightSide, .animeArea .leftSide, .animeArea .rightSide {
+      width: 90%;
+    }
+  
+    .contentArea {
+      flex-direction: column;
+    }
+  
+
+    .extrasArea img {
+      max-width: 100%;
+    }
+  
+    .extrasArea .headArea img {
+      max-width: 60%;
+    }
+  
+    .extrasArea .leftSide {
+      margin-bottom: 30px;
+    }
+  
+    .extrasArea .leftSide img {
+      max-width: 75%;
+    }
+  
+    .juegosSecc .leftSide img {
+      max-width: 100%;
+    }
+  
+    .infoSecc .leftSide img {
+      max-width: 55%;
+    }
+  
+    .infoSecc, .juegosSecc, .sonidosSecc, .arteSecc {
+      width: 100%;
+    }
+  }

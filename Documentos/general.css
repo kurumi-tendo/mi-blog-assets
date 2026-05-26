@@ -1,0 +1,67 @@
+  * {
+    scrollbar-width: none;
+    scrollbar-color: #5ad7f0 #ffffff;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #5ad7f0;
+    border-radius: 4px;
+    border: 3px none #ffffff;
+  }
+
+  body {
+  	background-color: #fff;
+  	background-image: url("https://1.bp.blogspot.com/-_fMYr5XZ-34/XkSdmcat6yI/AAAAAAAAAJk/6yzSuYm3i0AVOoeTBFOJI-Dn0buCr-q-gCNcBGAsYHQ/s1600/pattern_s.png");
+  	overflow-x: hidden;
+  }
+
+  body,
+  a {
+  	font-family: Meiryo, ãƒ¡ã‚¤ãƒªã‚ª, sans-serif, ã€€AdobeBlank;
+  	color: #5f052c;
+  	line-height: 1.6;
+  	font-feature-settings: "pwid";
+  }
+
+  a {
+  	text-decoration: none;
+  }
+
+  #main,
+  .main,
+  .section,
+  body,
+  .widget {
+  	padding: 0;
+  	margin: 0 auto;
+  }
+
+  .blog-feeds,
+  .post-feeds {
+  	visibility: hidden;
+  	display: none;
+  }
+
+  #upIcon {
+  	position: fixed;
+  	right: 3rem;
+  	bottom: 3rem;
+  	z-index: 3;
+  	width: 120px;
+  }
+
+  @media (max-width: 750px) {
+  	#upIcon {
+  		visibility: hidden;
+  		display: none;
+  	}
+  }

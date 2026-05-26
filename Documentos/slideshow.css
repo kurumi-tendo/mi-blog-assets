@@ -1,0 +1,127 @@
+.sliderContainer {
+  width:100%;
+  position: relative;
+  margin: auto;
+}
+
+.slick-arrow {
+  position: absolute;
+  top: 35%;
+  z-index: 2;
+  cursor: pointer;
+}
+
+.slick-arrow.prev {
+  left: 5%;
+}
+
+.slick-arrow.next {
+  right: 5%;
+}
+
+.slick-arrow img {
+  width: 8vw;
+}
+
+.mySlides {
+  margin: 0 auto;
+  padding: 3rem;
+  display: none;
+  visibility: hidden;
+  background-color: #fff;
+  width: 50%;
+  margin-bottom: 3rem;
+  box-shadow: 6px 6px #d9cb53;
+}
+
+.slideBody
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mySlides.active {
+  display: block;
+  visibility: visible;
+}
+
+.mySlides img {
+  width: 20rem;
+}
+
+.slideDots {
+  text-align: center;
+  padding-bottom: 7rem;
+}
+
+.slideDate {
+  padding: 0.2rem;
+}
+
+.slideTitle {
+  padding: 1rem;
+  margin: 1rem;
+  background-image: url(https://1.bp.blogspot.com/-ye3qlOGvwKU/X-zwTAgCqCI/AAAAAAAAAac/qGChmKO2xo86vCKa1EGt62hplkv8mw6BQCNcBGAsYHQ/s1920/ribbon.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 1.3rem;
+  text-align: center;
+  color: white;
+  text-shadow: 0px 1px 5px rgb(50 2 34);
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #81CDD6;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.dot.active, .dot:hover {
+  background-color: #3786BE;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@media (max-width: 750px) {
+  .mySlides {
+    width: 90%;
+  }
+
+  .slick-arrow.prev {
+    left: 0px;
+  }
+
+  .slick-arrow.next {
+    right: 0px;
+  }
+
+  .mySlides img
+  {
+    width: 15rem;
+  }
+}
