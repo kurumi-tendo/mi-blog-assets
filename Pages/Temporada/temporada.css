@@ -1,0 +1,331 @@
+.navbar #anime {
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.navbar #anime img {
+    opacity: 1;
+}
+
+.contenedor-temporada {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 4rem;
+}
+
+.contenedor-detalles-temporada {
+    margin-bottom: 3rem;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor-detalles-temporada .detalles-temporada {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0rem 1rem 1rem 1rem;
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoPB70EHl2gVKXBLDtD3lTH4B0vN0EIVGeMMmNq32r-vyya0bou9AHM0F34fxwM-f518KBlEjvpZ6uJsqrbnww216yG39BvvjZOdXWYUQKDSbRDVcgJk4eEEd--SHQshj6q37qR3TgJkMzjLecw7V1iXIRMz3Uh6Tc6b4CUmzaKzcaDPTAPsKXDrmYMg/s399/mirumo_pattern_bg_green.png);
+    background-repeat: repeat;
+    box-shadow: 1px 1px 1px #afd1b9;
+    border: solid 3px #fff;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 11px;
+}
+
+.contenedor-detalles-temporada .imagen-temporada {
+    flex: 1;
+    min-height: 300px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.imagen-temporada #arrowLeft,
+.imagen-temporada #arrowRight {
+    position: absolute;
+    top: 40%;
+    width: 80px;
+    height: auto;
+    opacity: 0.7;
+    -webkit-transition: opacity 0.5s 0s ease;
+    -moz-transition: opacity 0.5s 0s ease;
+    -o-transition: opacity 0.5s 0s ease;
+    transition: opacity 0.5s 0s ease;
+}
+
+.imagen-temporada:hover #arrowLeft,
+.imagen-temporada:hover #arrowRight {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.imagen-temporada #arrowLeft {
+    left: 0;
+}
+
+.imagen-temporada #arrowRight {
+    right: 0;
+}
+
+.contenedor-detalles-temporada .detalles-temporada .nombre {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 1rem 1rem 4rem 1rem;
+    margin-bottom: 1rem;
+    background-color: #56C67C;
+    color: #fff;
+    clip-path: polygon(0 0,100% 0,100% calc(100% - 26px),calc(50% + 26px) calc(100% - 26px),50% 100%,calc(50% - 26px) calc(100% - 26px),0 calc(100% - 26px));
+    text-shadow: 0px 1px 5px rgb(43, 26, 4);   
+}
+
+.detalles-temporada .descripcion
+{
+    display: flex;
+    align-items: center;
+    flex: 1;
+    padding: 1rem 2rem 1rem 2rem;
+    margin-top: 1rem;
+    color: rgb(89, 106, 89);
+}
+
+.lista-episodios {
+    flex: 100%;
+}
+
+.header-lista-episodios h2 {
+    text-align: center;
+    background-image: url("https://1.bp.blogspot.com/-PCq8RI7J3Uw/Xjm-NAAc-8I/AAAAAAAAAEg/n8KFhJOG9gUukZWV1oGU-NMh02AlTHXQgCNcBGAsYHQ/s1600/MenuSp_bg_blue.jpg");
+    background-repeat: repeat;
+    margin: 0;
+    padding: 20px;
+    color: #fff;
+    text-shadow: 0px 1px 5px rgb(6, 22, 80);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.contenedor-row-episodios {
+    display: flex;
+    flex-direction: row;
+    flex: 100%;
+}
+
+.row-episodios {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    height: auto;
+    flex: 80%;
+}
+
+.row-episodios .episodio {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    padding: 2.4rem 10px 2.4rem 10px;
+    align-items: center;
+    flex: 80%;
+    border-bottom: 1px #cbeeff solid;
+}
+
+.episodio-miniatura {
+    flex: 1;
+    position: relative;
+    margin-right: 25px;
+}
+
+.episodio-miniatura > img {
+    border: solid #019CE7 4px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px rgb(54, 117, 136);
+}
+
+.episodio-detalles {
+    flex: 1.3;
+    width: 70%;
+}
+
+.episodio-detalles .titulo {
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    color: white;
+    text-shadow: 0px 1px 5px rgb(50, 2, 34);
+    padding: 20px;
+    background-image: url(https://1.bp.blogspot.com/-ye3qlOGvwKU/X-zwTAgCqCI/AAAAAAAAAac/qGChmKO2xo86vCKa1EGt62hplkv8mw6BQCNcBGAsYHQ/s1920/ribbon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.episodio-detalles .titulo img {
+    position: absolute;
+    top: -10px;
+}
+
+.episodio-detalles .titulo img:first-child {
+    right: 20px;
+    width: 8rem;
+}
+
+.episodio-detalles .titulo img:last-child {
+    left: 20px;
+    width: 6rem;
+}
+
+.num-episodio {
+    flex: 0.15;
+    width: 5rem;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4dc7da;
+    border: solid 1px #4dc7da;
+    border-radius: 0 25px 25px 0;
+    text-shadow: 0px 1px 5px rgb(9, 51, 85);
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.episodio-detalles .fecha {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    color: #e34093;
+}
+
+.episodio-detalles .descripcion {
+    padding: 1rem 6rem 1rem 6rem;
+}
+
+.boton-play {
+    width: 5rem;
+    height: 100%;
+    margin: 0 auto;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.contenedor-pagination-episodios {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    top: 50%;
+    z-index: 2;
+}
+
+.page {
+    display: flex;
+    align-items: center;
+    width: 60px;
+    padding: 0.2rem;
+    border: solid 4px #fff;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    box-shadow: 2px 2px 4px black;
+    color: #fff;
+    font-weight: bold;
+    -webkit-transition: width 0.3s 0s ease;
+    -moz-transition: width 0.3s 0s ease;
+    -o-transition: width 0.3s 0s ease;
+    transition: width 0.3s 0s ease;
+}
+
+.page:hover, .page:active {
+    width: 100px;
+}
+
+.page > div
+{
+    margin-right: 0.5rem;
+}
+
+#page1 {
+    background-color: #e34093;
+}
+
+#page2 {
+    background-color: #4dc7da;
+}
+
+#page3 {
+    background-color: #56c67c;
+}
+
+@media (max-width: 900px) {
+    .row-episodios .episodio {
+        flex-direction: column;
+    }
+
+    .episodio-miniatura {
+        position: relative;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .icono-episodio img {
+        visibility: hidden;
+        display: none;
+    }
+
+    .episodio-detalles {
+        width: 100%;
+    }
+
+    .pagination-episodios>div {
+        width: 50px;
+    }
+
+    .pagination-episodios>div:hover,
+    .pagination-episodios>div.active {
+        width: 60px;
+    }
+
+    .contenedor-detalles-temporada {
+        flex-direction: column;
+    }
+
+    .episodio-detalles .titulo {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .episodio-detalles .titulo img:last-child {
+        left: -20px;
+    }
+
+    .episodio-detalles .titulo img:first-child {
+        right: -20px;
+    }
+
+    .episodio-detalles .descripcion {
+        padding: 1rem;
+    }
+
+    .num-episodio {
+        border-radius: 25px;
+        padding: 0.4rem;
+    }
+
+}

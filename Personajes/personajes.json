@@ -1,0 +1,1057 @@
+[
+
+	{
+		"id:": "1",
+		"nombre:": "Mirmo",
+		"urlImagen:": "001.gif ",
+		"descripcion:": "Un hada que se especializa en la magia que hace que el amor se  haga realidad. Al contrario de su aspecto adorable, tiene un carácter perverso.  Es el primer príncipe del pueblo de Mirmo.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Carmen",
+					"apellidoActor": "Podio"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Etsuko",
+					"apellidoActor": "Kozakura"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Claudio",
+					"apellidoActor": "Velázquez"
+				}
+			]
+
+	},
+
+	{
+		"id:": "2",
+		"nombre:": "Kaede",
+		"urlImagen:": "002.gif ",
+		"descripcion:": "Chica de 14 años con carácter alegre y honesto.  Está enamorada de Setsu Yuki que está en la misma clase.  Llamó a Mirmo para cumplir su deseo de amor.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Blanca",
+					"apellidoActor": "Hualde"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Mai",
+					"apellidoActor": "Nakahara"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Luna",
+					"apellidoActor": "Circe"
+				}
+			]
+
+	},
+
+	{
+		"id:": "3",
+		"nombre:": "Rirumu",
+		"urlImagen:": "003.gif ",
+		"descripcion:": "Un hada que es la prometida de Mirmo. Usa la magia para cambiar la apariencia de las cosas y los corazones de las personas, pero realmente no es buena en la magia. Es muy fuerte físicamente y cuando se enoja reacciona con violencia.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Silvia",
+					"apellidoActor": "Sarmentera"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Mayuko",
+					"apellidoActor": "Omimura"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Mayra",
+					"apellidoActor": "Arellano"
+				}
+			]
+
+	},
+
+	{
+		"id:": "4",
+		"nombre:": "Setsu",
+		"urlImagen:": "004.gif ",
+		"descripcion:": "Un excelente alumno con excelente desempeño y honores. Compañero de Rirumu",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Juan Antonio",
+					"apellidoActor": "Soler"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Yukiotshi",
+					"apellidoActor": "Tokumoto"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Alan",
+					"apellidoActor": "Velázquez"
+				}
+			]
+
+	},
+
+	{
+		"id:": "5",
+		"nombre:": "Yashichi",
+		"urlImagen:": "005.gif ",
+		"descripcion:": "El eterno rival de Mirmo y fue al mundo de los humanos para derrotarlo. Posee un carácter pervertido ",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Blanca",
+					"apellidoActor": "Rada"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Yukiji",
+					"apellidoActor": ""
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Manuel",
+					"apellidoActor": "Campuzano"
+				}
+			]
+
+	},
+
+	{
+		"id:": "6",
+		"nombre:": "Azumi",
+		"urlImagen:": "006.gif ",
+		"descripcion:": "Bella y valiente. Kaede y ella son rivales enamoradas de Setsu. Convocó a Yashichi para deshacerse de Kaede",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Yolanda",
+					"apellidoActor": "Mateos"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Hitomi",
+					"apellidoActor": ""
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "María Fernanda",
+					"apellidoActor": "Morales"
+				}
+			]
+
+	},
+
+	{
+		"id:": "7",
+		"nombre:": "Murumo",
+		"urlImagen:": "007.gif ",
+		"descripcion:": "Hermano menor de Mirmo y compañero de Kaoru. Manipula a los demás a través de su ternura",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Carolina",
+					"apellidoActor": "Tak"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Rie",
+					"apellidoActor": "Kugimiya"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Isabel",
+					"apellidoActor": "Romo"
+				}
+			]
+
+	},
+
+	{
+		"id:": "8",
+		"nombre:": "Kaoru",
+		"urlImagen:": "008.gif ",
+		"descripcion:": "Es millonario. Está enamorado de Kaede",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Mariano",
+					"apellidoActor": "Garcia"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Soichiro",
+					"apellidoActor": "Hoshi"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Irwin",
+					"apellidoActor": "Daayan"
+				}
+			]
+
+	},
+
+	{
+		"id:": "9",
+		"nombre:": "Yamane",
+		"urlImagen:": "009.gif ",
+		"descripcion:": "Compañera de Momo. Le gusta Yashichi",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Alicia",
+					"apellidoActor": "Sainz de la Maza"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Kazusa",
+					"apellidoActor": "Murai"
+				},
+			]
+
+	},
+
+	{
+		"id:": "10",
+		"nombre:": "Momo",
+		"urlImagen:": "010.gif ",
+		"descripcion:": "Es rica al igual que Kaoru y está enamorada de él",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Carmen",
+					"apellidoActor": "Cervantes"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Noriko",
+					"apellidoActor": "Shitaya"
+				},
+			]
+
+	},
+
+	{
+		"id:": "11",
+		"nombre:": "Misuki",
+		"urlImagen:": "011.gif ",
+		"descripcion:": "Hermano menor de Azumi",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Sara",
+					"apellidoActor": "Vivas"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Kokoro",
+					"apellidoActor": "Shindou"
+				},
+			]
+
+	},
+
+	{
+		"id:": "12",
+		"nombre:": "Pandilla Warumo",
+		"urlImagen:": "012.gif ",
+		"descripcion:": "Una organización malvada que tiene como objetivo gobernar el pueblo de Mirmo. Desafía a Mirmo a una batalla cada vez que lo ven.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": ["Paco", "David", "Luis Miguel", "Lydia", "Valle"],
+					"apellidoActor": ["Vaquero", "Hernan", "Villegas", "Zorrilla, "Acebron"]
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": ["Kentaro", "Ikumi", "Kazusa", "Masashi", "Hitomi"],
+					"apellidoActor": ["Ito", "Sugiyama", "Murai", "Ogawa", ""]
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": ["Jorge", "Eduardo"],
+					"apellidoActor": ["Ornelas", "Garza"]
+				}
+			]
+
+	},
+
+	{
+		"id:": "13",
+		"nombre:": "Hanzo",
+		"urlImagen:": "013.gif ",
+		"descripcion:": "Seguidor de Yashichi. Es un poco tonto pero nunca se rinde.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Rafael",
+					"apellidoActor": "Alonso Naranjo Jr"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Noriko",
+					"apellidoActor": "Shitaya"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Rosy",
+					"apellidoActor": "Aguirre"
+				}
+			]
+
+	},
+
+	{
+		"id:": "14",
+		"nombre:": "Sasuke",
+		"urlImagen:": "014.gif ",
+		"descripcion:": "Seguidor de Yashichi. Siempre se esfuerza pero sus esfuerzos nunca dan frutos.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Mariano",
+					"apellidoActor": "Garcia"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Motoko",
+					"apellidoActor": "Kumai"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Carlos",
+					"apellidoActor": "Iñigo"
+				}
+			]
+
+	},
+
+	{
+		"id:": "15",
+		"nombre:": "Anna",
+		"urlImagen:": "015.gif ",
+		"descripcion:": "Compañera de clase de Mirmo. Le gusta estudiar y odia ser deshonesta.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Beatriz",
+					"apellidoActor": "Berciano"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Chigusa",
+					"apellidoActor": "Ikeda"
+				},
+			]
+
+	},
+
+	{
+		"id:": "16",
+		"nombre:": "Manbo",
+		"urlImagen:": "016.gif ",
+		"descripcion:": "Compañero de clase de Mirmo. Aparenta ser un hombre pero en realidad es un cobarde.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Luis Miguel",
+					"apellidoActor": "Villegas"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Keiko",
+					"apellidoActor": "Nemoto"
+				},
+			]
+
+	},
+
+	{
+		"id:": "17",
+		"nombre:": "Gabin",
+		"urlImagen:": "017.gif ",
+		"descripcion:": "Compañero de clase de Mirmo. Es negativo, y siempre piensa en todo de una mala manera.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Sara",
+					"apellidoActor": "Vivas"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Masako",
+					"apellidoActor": "Joh"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Liliana",
+					"apellidoActor": "Barba"
+				}
+			]
+
+	},
+
+	{
+		"id:": "18",
+		"nombre:": "Peta",
+		"urlImagen:": "018.gif ",
+		"descripcion:": "Compañero de clase de Mirmo. Es frágil, con emociones profundas y de buen corazón",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Inma",
+					"apellidoActor": "Gallego"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Kumiko",
+					"apellidoActor": "Higa"
+				},
+			]
+
+	},
+
+	{
+		"id:": "19",
+		"nombre:": "Bike",
+		"urlImagen:": "019.gif ",
+		"descripcion:": "Compañero de clase de Mirmo. Es narcisista y el más bello del mundo de las hadas.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Chelo",
+					"apellidoActor": "Molina"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Izumi",
+					"apellidoActor": "Kikuchi"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Victor",
+					"apellidoActor": "Ugarte"
+				}
+			]
+
+	},
+
+	{
+		"id:": "20",
+		"nombre:": "Raichi",
+		"urlImagen:": "020.gif ",
+		"descripcion:": "Compañera de clase de Mirmo. Es habladora y le encantan los chismes.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Raquel",
+					"apellidoActor": "Martin"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Kyoko",
+					"apellidoActor": "Tsuruno"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Gaby",
+					"apellidoActor": "Willer"
+				}
+			]
+
+	},
+
+	{
+		"id:": "21",
+		"nombre:": "Ocho",
+		"urlImagen:": "021.gif ",
+		"descripcion:": "Compañera de clase de Mirmo. Es rica y superficial.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "",
+					"apellidoActor": ""
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "",
+					"apellidoActor": ""
+				},
+			]
+
+	},
+
+	{
+		"id:": "22",
+		"nombre:": "Incho",
+		"urlImagen:": "022.gif ",
+		"descripcion:": "Compañero de clase de Mirmo. Comité de clase muy serio y con sobresalientes calificaciones.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Amparo",
+					"apellidoActor": "Bravo"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Mitsuo",
+					"apellidoActor": "Iwata"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Enzo",
+					"apellidoActor": "Fortuny"
+				}
+			]
+
+	},
+
+	{
+		"id:": "23",
+		"nombre:": "Moon",
+		"urlImagen:": "023.gif ",
+		"descripcion:": "Compañero de clase de Mirmo. Es muy silencioso y misterioso.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": " ",
+					"apellidoActor": " "
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "",
+					"apellidoActor": ""
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "",
+					"apellidoActor": ""
+				}
+			]
+
+	},
+
+	{
+		"id:": "24",
+		"nombre:": "Kinta",
+		"urlImagen:": "024.gif ",
+		"descripcion:": "De la tribu Gurumi. Tiene mucha fuerza. Se enamoró a primera vista de Rirumu, que es más fuerte que él.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Mercedes",
+					"apellidoActor": "Espinosa"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Masako",
+					"apellidoActor": "Nozawa"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Ernesto",
+					"apellidoActor": "Lezama"
+				}
+			]
+
+	},
+
+	{
+		"id:": "25",
+		"nombre:": "Papii",
+		"urlImagen:": "025.gif ",
+		"descripcion:": "Compañera de clase de Murumo. Está realmente enamorada de Murumo pero no puede ser honesta con sus sentimientos.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Ines",
+					"apellidoActor": "Blazquez"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Kurumi",
+					"apellidoActor": "Mamiya"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Cristina",
+					"apellidoActor": "Hernandez"
+				}
+			]
+
+	},
+
+	{
+		"id:": "26",
+		"nombre:": "Mimomo",
+		"urlImagen:": "026.gif ",
+		"descripcion:": "Hada que vende bienes por correo. Es la verdadera forma del hombre de la tienda de las tazas",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Luis Vicente",
+					"apellidoActor": "Ivars"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Ryoka",
+					"apellidoActor": "Yuzuki"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "",
+					"apellidoActor": ""
+				}
+			]
+
+	},
+
+	{
+		"id:": "27",
+		"nombre:": "Ura Mimomo",
+		"urlImagen:": "027.gif ",
+		"descripcion:": "Vende productos extraños por el correo oscuro de las hadas.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Antonio",
+					"apellidoActor": "Villar"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Hiroshi",
+					"apellidoActor": "Naka"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Irwin",
+					"apellidoActor": "Daayan"
+				}
+			]
+
+	},
+
+	{
+		"id:": "28",
+		"nombre:": "Marumo",
+		"urlImagen:": "028.gif ",
+		"descripcion:": "Padre de Mirmo y rey de la aldea de Mirmo. Es fanfarrón pero débil ante Saria.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Antonio",
+					"apellidoActor": "Villar"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Hiroshi",
+					"apellidoActor": "Naka"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Paco",
+					"apellidoActor": "Mauri"
+				}
+			]
+
+	},
+
+	{
+		"id:": "29",
+		"nombre:": "Saria",
+		"urlImagen:": "029.gif ",
+		"descripcion:": "Madre de Mirmo, esposa de Marumo. Por lo general es tranquila y gentil, pero si se enoja... ¡creará una tormenta!.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Blanca",
+					"apellidoActor": "Rada"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Izumi",
+					"apellidoActor": "Kikuchi"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "",
+					"apellidoActor": ""
+				}
+			]
+
+	},
+
+	{
+		"id:": "30",
+		"nombre:": "Otome",
+		"urlImagen:": "030.gif ",
+		"descripcion:": "Una hada muy linda de la que Yashichi se enamoró a primera vista. Pero, en realidad, es un chico.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Marta",
+					"apellidoActor": "Sainz"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Kae",
+					"apellidoActor": "Araki"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Isabel",
+					"apellidoActor": "Martiñon"
+				}
+			]
+
+	},
+
+	{
+		"id:": "31",
+		"nombre:": "Nezumi",
+		"urlImagen:": "031.gif ",
+		"descripcion:": "Prima de Yashichi, es antipática.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Elena",
+					"apellidoActor": "Palacios"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Rikako",
+					"apellidoActor": "Aikawa"
+				},
+			]
+
+	},
+
+	{
+		"id:": "32",
+		"nombre:": "Fire",
+		"urlImagen:": "032.gif ",
+		"descripcion:": "De la tribu Gaia. Hada que controla el fuego. Se enoja muy rápido.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Alex",
+					"apellidoActor": "Saudinos"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Wasabi",
+					"apellidoActor": "Mizuta"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Eduardo",
+					"apellidoActor": "Garza"
+				}
+			]
+
+	},
+
+	{
+		"id:": "33",
+		"nombre:": "Donta",
+		"urlImagen:": "033.gif ",
+		"descripcion:": "De la tribu Gaia. Hada que controla el suelo. Es tímido y silencioso.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Valle",
+					"apellidoActor": "Acebron"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Chiyako",
+					"apellidoActor": "Shibahara"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Xóchitl",
+					"apellidoActor": "Ugarte"
+				}
+			]
+
+	},
+
+	{
+		"id:": "34",
+		"nombre:": "Win",
+		"urlImagen:": "034.gif ",
+		"descripcion:": "De la tribu Gaia. Hada que controla el viento. Es alegre.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Chelo",
+					"apellidoActor": "Molina"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Shizuka",
+					"apellidoActor": "Ishikawa"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Patricia",
+					"apellidoActor": "Acevedo"
+				}
+			]
+
+	},
+
+	{
+		"id:": "35",
+		"nombre:": "Aqua",
+		"urlImagen:": "035.gif ",
+		"descripcion:": "De la tribu Gaia. Hada que controla el agua. Tiene una personalidad tranquila.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Yolanda",
+					"apellidoActor": "Mateos"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Kei",
+					"apellidoActor": "Kobayashi"
+				},
+			]
+
+	},
+
+	{
+		"id:": "36",
+		"nombre:": "Tain",
+		"urlImagen:": "036.gif ",
+		"descripcion:": "Profesor de la escuela de hadas. Un abuelo gentil al que le gustan los experimentos.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Belen",
+					"apellidoActor": "Rodriguez"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Miyu",
+					"apellidoActor": "Matsuki"
+				},
+			]
+
+	},
+
+	{
+		"id:": "37",
+		"nombre:": "Zamas",
+		"urlImagen:": "037.gif ",
+		"descripcion:": "Profesora de la escuela de hadas. Es muy estricta.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Raquel",
+					"apellidoActor": "Martin"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "",
+					"apellidoActor": ""
+				},
+			]
+
+	},
+
+	{
+		"id:": "38",
+		"nombre:": "Enma",
+		"urlImagen:": "038.gif ",
+		"descripcion:": "Profesor de la escuela de hadas. Le encantan los retruécanos [Contraposición de dos frases formadas por las mismas palabras con el orden invertido en una de ellas, con el fin de que presenten un significado contradictorio o antitético].",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Jesus",
+					"apellidoActor": "Rodriguez"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Toshiya",
+					"apellidoActor": "Ueda"
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Ricardo",
+					"apellidoActor": "Hill"
+				}
+			]
+
+	},
+
+	{
+		"id:": "39",
+		"nombre:": "Taiku",
+		"urlImagen:": "039.gif ",
+		"descripcion:": "Profesor de educación física de la escuela de hadas. Es un profesor de sangre caliente a quien le gusta la juventud.",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Luis Vicente",
+					"apellidoActor": "Ivars"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "",
+					"apellidoActor": ""
+				},
+				{
+					"pais": "mexico.png",
+					"nombreActor": "Juan Alfonso",
+					"apellidoActor": "Carralero"
+				}
+			]
+
+	},
+
+	{
+		"id:": "40",
+		"nombre:": "Takosu",
+		"urlImagen:": "040.gif ",
+		"descripcion:": "Un robot inteligente de tipo pulpo de ultra alto rendimiento equipado con cerebros electrónicos de última generación. Sus nombres reales son [Tantrolin, Chintrolin, CoroColopa, Krulup, Stekete, Totcopy 864], para abreviar, [Tacos]. Sin embargo, es llamado [Octopus][pulpo].",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Jorge",
+					"apellidoActor": "Saudinos"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Wasabi",
+					"apellidoActor": "Mizuta"
+				},
+			]
+
+	},
+
+	{
+		"id:": "41",
+		"nombre:": "Pikumo",
+		"urlImagen:": "041.gif ",
+		"descripcion:": "Pikumo es un hada que controla las nubes. Pertenece a la tribu Gaia",
+		"doblajes":
+			[
+
+				{
+					"pais": "espana.png",
+					"nombreActor": "Rodriguez",
+					"apellidoActor": "Belen"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Miyu",
+					"apellidoActor": "Matsuki"
+				},
+				{
+					"pais": "japon.png",
+					"nombreActor": "Mariana",
+					"apellidoActor": "Ortiz"
+				}
+			]
+
+	}
+
+]
+
+
+
+
+
+
+

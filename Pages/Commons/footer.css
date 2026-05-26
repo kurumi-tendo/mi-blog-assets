@@ -1,0 +1,82 @@
+footer
+{
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    padding: 25px;
+    background-image: url(https://1.bp.blogspot.com/-ed_XNgaKdCg/Xjm-PFFimVI/AAAAAAAAAEw/qBiJagzzal8haaDawhuO6KTwayoB7UMxACNcBGAsYHQ/s1600/dot.jpg);
+    background-size: cover;
+    color: #fff;
+    --mask: linear-gradient(to bottom,#0000 45px,#000 0), radial-gradient(45px,#000 98%,#0000) top/83.25px 90px;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+}
+
+.content-footer 
+{
+    width:100%;
+    top: -30%;
+    padding: 50px 0
+}
+
+#logo-footer
+{
+    width: 20rem;
+    padding: 1rem
+}
+
+.links-footer
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+    border-top: 1px #009A44 solid;
+    border-bottom: 1px #009A44 solid;
+    font-size: 1rem;
+    font-weight: bold;
+    text-shadow: rgb(255 255 255) 3px 0px 0px, rgb(255 255 255) 2.83487px 0.981584px 0px, rgb(255 255 255) 2.35766px 1.85511px 0px, rgb(255 255 255) 1.62091px 2.52441px 0px, rgb(255 255 255) 0.705713px 2.91581px 0px, rgb(255 255 255) -0.287171px 2.98622px 0px, rgb(255 255 255) -1.24844px 2.72789px 0px, rgb(255 255 255) -2.07227px 2.16926px 0px, rgb(255 255 255) -2.66798px 1.37182px 0px, rgb(255 255 255) -2.96998px 0.42336px 0px, rgb(255 255 255) -2.94502px -0.571704px 0px, rgb(255 255 255) -2.59586px -1.50383px 0px, rgb(255 255 255) -1.96093px -2.27041px 0px, rgb(255 255 255) -1.11013px -2.78704px 0px, rgb(255 255 255) -0.137119px -2.99686px 0px, rgb(255 255 255) 0.850987px -2.87677px 0px, rgb(255 255 255) 1.74541px -2.43999px 0px, rgb(255 255 255) 2.44769px -1.73459px 0px, rgb(255 255 255) 2.88051px -0.838247px 0px;
+}
+
+.links-footer a
+{
+    margin-right: 1rem;
+    color: #fff;
+}
+
+footer #anime
+{
+    color: #009CE8;
+}
+
+footer #manga
+{
+    color: #E62E8B;
+}
+
+footer #info
+{
+    color: #009A44;
+}
+
+footer #juegos
+{
+    color: #E37B0D;
+}
+
+footer #sonidos
+{
+    color: #C13EF9;
+}
+
+.socialmedia-footer
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

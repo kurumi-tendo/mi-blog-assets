@@ -1,0 +1,50 @@
+html, body, a {
+    font-family: 'Lucida Grande', Meiryo, メイリオ, sans-serif;
+    color: #605151;
+}
+
+
+body {
+    background-color: #fff;
+    background-image: url("https://1.bp.blogspot.com/-_fMYr5XZ-34/XkSdmcat6yI/AAAAAAAAAJk/6yzSuYm3i0AVOoeTBFOJI-Dn0buCr-q-gCNcBGAsYHQ/s1600/pattern_s.png");
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+a {
+    text-decoration: none;
+}
+
+#main,
+.main,
+.section,
+body,
+.widget {
+    padding: 0;
+    margin: 0 auto;
+}
+
+.post-title,
+.entry-title,
+#comments,
+.comments,
+.blog-feeds,
+.post-feeds {
+    visibility: false;
+    display: none;
+}
+
+#upIcon {
+    position: fixed;
+    right: 3rem;
+    bottom: 3rem;
+    z-index: 3;
+    width: 120px;
+}
+
+@media (max-width: 750px) {
+    #upIcon {
+        visibility: hidden;
+        display: none;
+    }
+}
